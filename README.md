@@ -1,4 +1,4 @@
-👋 Hi, I’m @Drkaushiksreeram
+👋 Hi, I’m Dr kaushik sreerama reddy
 Welcome to my GitHub profile! I'm a physician by training with a passion for medical technology and software development, driven by the need to innovate in healthcare.
 
 👀 Interests
